@@ -9,14 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-    private let pattern = 29
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Hello, GitHub!")
-        print("pattern = \(pattern)")
-        print("Hello CS193p")
+        // Do any additional setup after loading the view.
     }
 
 
