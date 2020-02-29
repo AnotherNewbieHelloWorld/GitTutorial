@@ -9,10 +9,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    private let pattern = 12
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("Hello, GitHub!")
     }
 
 
